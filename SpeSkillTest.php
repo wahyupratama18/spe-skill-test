@@ -83,14 +83,14 @@ class SpeSkillTest
 }
 
 // Testing
-SpeSkillTest::narcissistic(153);
-SpeSkillTest::narcissistic(111);
+// SpeSkillTest::narcissistic(153);
+// SpeSkillTest::narcissistic(111);
 
-SpeSkillTest::parity([2, 4, 0, 100, 4, 11, 2602, 36]);
-SpeSkillTest::parity([160, 3, 1719, 19, 11, 13, -21]);
-SpeSkillTest::parity([11, 13, 15, 19, 9, 13, -21]);
+// SpeSkillTest::parity([2, 4, 0, 100, 4, 11, 2602, 36]);
+// SpeSkillTest::parity([160, 3, 1719, 19, 11, 13, -21]);
+// SpeSkillTest::parity([11, 13, 15, 19, 9, 13, -21]);
 
-SpeSkillTest::findNeedle(['red', 'blue', 'yellow', 'black', 'grey'], 'blue');
+// SpeSkillTest::findNeedle(['red', 'blue', 'yellow', 'black', 'grey'], 'blue');
 
-SpeSkillTest::blueOcean([1, 2, 3, 4, 6, 10], [1]);
-SpeSkillTest::blueOcean([1, 5, 5, 5, 5, 3], [5]);
+// SpeSkillTest::blueOcean([1, 2, 3, 4, 6, 10], [1]);
+// SpeSkillTest::blueOcean([1, 5, 5, 5, 5, 3], [5]);
